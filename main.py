@@ -1,9 +1,10 @@
 loopcode = True
 
 while loopcode:
-	print("Welcome to calculator 3000!\nPlease enter two numbers to perform operations on them.")
+	print("Welcome to calculator 3000!\n Please enter two numbers to perform operations on them.")
 	print("Enter your operation below:\n1 - Addition\t2 - Substraction\t3 - Multiplication\t4 - Division\t5 - Exit")
 	c = int(input())
+
 	if c == 5:
 		loopcode = False
 		break
