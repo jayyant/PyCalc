@@ -1,2 +1,1 @@
-this just something i made for fun
-haha yes
+a simple starter project I made a long time ago. A calculator written in python
